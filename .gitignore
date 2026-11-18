@@ -1,0 +1,6 @@
+build/
+dist/
+*.pyc
+__pycache__/
+installer/redist/
+installer/Output/
